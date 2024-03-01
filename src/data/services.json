@@ -1,0 +1,25 @@
+{
+    "services":[
+        {
+            "id": 1,
+            "title": "GearBox Repairing",
+            "slug": "tata-repairing",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo vitae adipisci voluptates nam? Nam perspiciatis mollitia fuga id ab ipsa, doloribus corporis omnis. Ipsum, ex autem dignissimos ratione vero blanditiis",           
+            "isFeatured": true,
+            "image": "https://www.tatamotors.com/wp-content/themes/TataMotors/images/cv-banner.webp" 
+        },
+        {
+            "id": 2,
+            "title": "GearBox Repairing",
+            "slug": "tata-repairing",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo vitae adipisci voluptates nam? Nam perspiciatis mollitia fuga id ab ipsa, doloribus corporis omnis. Ipsum, ex autem dignissimos ratione vero blanditiis",           
+            "isFeatured": true,
+            "image": "https://www.tatamotors.com/wp-content/themes/TataMotors/images/cv-banner.webp" 
+        }
+
+    ]
+}
+
+
+
+

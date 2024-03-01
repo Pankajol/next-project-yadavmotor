@@ -1,0 +1,68 @@
+{
+  "repair": [
+    {
+      "id":1,
+      "isFeatured": true,
+      "title": "gearbox",
+      "button":"click for repairing",
+      "image":"https://media.istockphoto.com/id/495122784/photo/gearbox-of-commercial-truck.jpg?s=612x612&w=0&k=20&c=nF9I5qa47CWXYXr9YyKD_OICsO3Iiy91_ucItrA7nlg=",
+      "description": "Repairing various issues related to the gearbox, including gear slipping, difficulty shifting, and abnormal noises.",
+      "steps": [
+        "Diagnosis of gearbox problems",
+        "Disassembly and inspection of internal components",
+        "Replacement or repair of worn-out gears, bearings, synchronizers, and seals",
+        "Cleaning and lubrication of gearbox components",
+        "Reassembly with proper alignment and adjustment",
+        "Testing to ensure smooth operation"
+      ]
+    },
+    {
+      "id":2,
+      "isFeatured": true,
+      "title": "engine",
+      "button":"click for repairing",
+      "image":"https://media.istockphoto.com/id/1399312872/photo/trucks-engine-opening-hood-for-maintenance-and-repairing-diesel-engine-truck.jpg?s=1024x1024&w=is&k=20&c=39RM523ntqRCBd1tC7lUFSnVUXqg9mElPox8J_RfgwE=",
+      "description": "Addressing engine performance issues such as loss of power, rough idling, or abnormal noises.",
+      "steps": [
+        "Diagnosis of engine problems",
+        "Inspection of engine components such as pistons, valves, camshaft, and crankshaft",
+        "Repair or replacement of damaged or worn-out engine parts",
+        "Overhaul of the engine including cylinder head reconditioning and piston ring replacement",
+        "Cleaning and flushing of engine components",
+        "Testing and tuning for optimal performance"
+      ]
+    },
+    {
+      "id":3,
+      "isFeatured": true,
+      "title": "clutch_plate_pressure_plate",
+      "button":"click for repairing",
+      "image":"https://qph.cf2.quoracdn.net/main-qimg-f4b3e5cf4351f24e402ec5ac95a75142-lq",
+      "description": "Repairing clutch assembly issues like slippage, chatter, or difficulty engaging gears.",
+      "steps": [
+        "Assessment of clutch performance issues",
+        "Removal of transmission to access clutch assembly",
+        "Inspection of clutch plate, pressure plate, release bearing, and clutch fork",
+        "Replacement of worn-out or damaged clutch components",
+        "Adjustment of clutch pedal free play and hydraulic linkage",
+        "Testing for smooth engagement and disengagement"
+      ]
+    },
+     {
+      "id":4,
+      "isFeatured": true,
+      "title": "body",
+      "button":"click for repairing",
+      "image":"https://as2.ftcdn.net/v2/jpg/02/50/31/07/1000_F_250310793_YDvtf9un6HIPKM7HxhjvGceNLyrQEg6d.jpg",
+      "description": "Repairing body damage including dents, scratches, rust, or structural damage.",
+      "steps": [
+        "Evaluation of body damage",
+        "Panel replacement or repair using welding, filling, or panel beating",
+        "Alignment and adjustment of body panels",
+        "Surface preparation, sanding, priming, and painting",
+        "Rust treatment and prevention",
+        "Installation of new trim, moldings, or decals"
+      ]
+    }
+  ]
+}

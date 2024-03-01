@@ -1,0 +1,69 @@
+{
+    "vehicles": [
+      {
+        "id": 1,
+        "title": "Tata",
+        "slug": "tata-repairing",
+        "description": "All type of repairing is done",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "https://www.tatamotors.com/wp-content/themes/TataMotors/images/cv-banner.webp" 
+      },
+      {
+        "id": 2,
+        "title": "Ashok Leyland",
+        "slug": "piano-for-beginners",
+        "description": "All type of repairing is done",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": true,
+        "image": "https://www.ashokleyland.com/backend/in/wp-content/uploads/sites/2/2022/08/430x430_5-1.jpg" 
+        
+      },
+      {
+        "id": 3,
+        "title": "Mahindr",
+        "slug": "advanced-vocal-techniques",
+        "description": "All type of repairing is done",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "https://www.mahindratruckandbus.com/english/images/icv-img.jpg" 
+      },
+     
+      {
+        "id": 4,
+        "title": "Eicher",
+        "slug": "drumming-mastery",
+        "description": "All type of repairing is done",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": true,
+        "image": "https://motownindia.com/images/Commercial-Vehicles/Eicher-Trucks-and-Buses-aims-to-strengthen-presence-in-African-region-Motown-India-Bureau-1-480.jpg"
+      },
+      {
+        "id": 5,
+        "title": "volvo trucks",
+        "slug": "drumming-mastery",
+        "description": "All type of repairing is done",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": true,
+        "image":"https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/tools-error-404?qlt=82&wid=1920&ts=1690974584834&dpr=off&fit=constrain"
+      },
+      {
+        "id": 6,
+        "title": "Force",
+        "slug": "drumming-mastery",
+        "description": "All type of repairing is done",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": true,
+        "image": "https://www.forcemotors.com/assets/THE-FORCE.jpg"
+      }
+      
+  
+    ]
+  }
+  
