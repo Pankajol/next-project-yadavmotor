@@ -5,7 +5,7 @@
 const WhatsAppButton: React.FC = () => {
   const handleWhatsAppClick = () => {
     // Replace the phone number and message with your own
-    const phoneNumber = '7738961799';
+    const phoneNumber = '9821310750';
     const message = 'Hello! I have a question.';
 
     // Construct the WhatsApp API link
