@@ -72,7 +72,7 @@ function  Footer () {
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
           <p>Bhiwandi Vadpa Police Chowki Thapsi pada Mumbai Nashik Highway Near Indian Petrol pump (Gaurav Pump) Bhiwandi</p>
-          <p>Maharastra 000000</p>
+          <p>Maharastra 400608</p>
           <p>yadavbramhadev7@gmail.com</p>
           <p>Phone: (+91) 9821310750</p>
         </div>
