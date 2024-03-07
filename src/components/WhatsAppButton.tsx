@@ -5,8 +5,8 @@
 const WhatsAppButton: React.FC = () => {
   const handleWhatsAppClick = () => {
     // Replace the phone number and message with your own
-    const phoneNumber = '8779406764';
-    const message = 'Hello! I have a question.';
+    const phoneNumber = '+918779406764';
+    const message = 'plz asked any think about repairing';
 
     // Construct the WhatsApp API link
     const whatsappLink = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
@@ -16,7 +16,7 @@ const WhatsAppButton: React.FC = () => {
   };
 
   return (
-    <button onClick={handleWhatsAppClick}>Chat on WhatsApp</button>
+    <button onClick={handleWhatsAppClick}><img className="w-96 h-32" src="https://support.unicart.com/wp-content/uploads/2018/05/whatsapp-1-1.jpg" alt="chat on whatsapp" /></button>
   );
 };
 

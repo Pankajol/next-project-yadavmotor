@@ -17,14 +17,14 @@ function Navbar({ className }: { className?: string }) {
         </Link>
         <Link href={"/services"}>
         <MenuItem setActive={setActive} active={active} item="Services">
-          <div className="flex flex-col space-y-4 text-sm">
+          {/* <div className="flex flex-col space-y-4 text-sm">
             <HoveredLink href="/gearBox-repairing">GearBox Repairing</HoveredLink>
             <HoveredLink href="/engine-repairing">Engine Repairing </HoveredLink>
             <HoveredLink href="/body-reoairing">Body  Repairing</HoveredLink>
             <HoveredLink href="/clutch-plate">Clutch Plate</HoveredLink>
             <HoveredLink href="/pressure-plate">Pressure Plate</HoveredLink>
 
-          </div>
+          </div> */}
         </MenuItem>
         </Link>
         <Link href={"/contact"}>

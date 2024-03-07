@@ -17,6 +17,8 @@ export default function ProfilePage (){
               router.push('/login')
 
         try {
+
+            
             
         } catch (error:any) {
 
