@@ -41,27 +41,8 @@
         "instructor": "Mike Brown",
         "isFeatured": true,
         "image": "https://motownindia.com/images/Commercial-Vehicles/Eicher-Trucks-and-Buses-aims-to-strengthen-presence-in-African-region-Motown-India-Bureau-1-480.jpg"
-      },
-      {
-        "id": 5,
-        "title": "volvo trucks",
-        "slug": "drumming-mastery",
-        "description": "All type of repairing is done",
-        "price": 129.99,
-        "instructor": "Mike Brown",
-        "isFeatured": true,
-        "image":"https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/tools-error-404?qlt=82&wid=1920&ts=1690974584834&dpr=off&fit=constrain"
-      },
-      {
-        "id": 6,
-        "title": "Force",
-        "slug": "drumming-mastery",
-        "description": "All type of repairing is done",
-        "price": 129.99,
-        "instructor": "Mike Brown",
-        "isFeatured": true,
-        "image": "https://www.forcemotors.com/assets/THE-FORCE.jpg"
       }
+    
       
   
     ]

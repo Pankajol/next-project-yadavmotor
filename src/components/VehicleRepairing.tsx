@@ -21,11 +21,11 @@ function VehicleRepairing() {
     <div className="py-12 bg-gray-900">
         <div>
             <div className="text-center">
-                <h2 className="text-base text-teal-400 font-semibold tracking-wide
-                uppercase">Vehicle Repairing</h2>
+                <h2 className=" text-teal-400 font-semibold tracking-wide
+                uppercase text-3xl">Vehicle Repairing</h2>
                 <p className="mt-2 text-3xl leading-8
                 font-extrabold tracking-tight text-white
-                sm:text-4xl">Touch the phone</p>
+                sm:text-4xl"></p>
 
             </div>
         </div>
@@ -45,8 +45,8 @@ function VehicleRepairing() {
                     
                     <p>{vehicle.title}</p>
                     <p>{vehicle.description}</p>
-                    <Link href={`/vehicles/${vehicle.slug}`}>
-                        See More
+                    <Link href='/services'>
+                        See More 
                     </Link>
 
                    </div>
@@ -59,7 +59,7 @@ function VehicleRepairing() {
         </div>
         <div className="mt-20 text-center">
             <Link href={"/services"}
-            className="px-4 py-2 bg-red-400 rounded-md hover:bg-teal-400
+            className="px-4 py-2 bg-black rounded-md hover:bg-teal-400
             transition duration-200"
             >
                 View All services

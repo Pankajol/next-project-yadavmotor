@@ -35,7 +35,7 @@
     {
       "id":3,
       "isFeatured": true,
-      "title": "clutch_plate_pressure_plate",
+      "title": "clutch & pressure_plate",
       "button":"click for repairing",
       "image":"https://qph.cf2.quoracdn.net/main-qimg-f4b3e5cf4351f24e402ec5ac95a75142-lq",
       "description": "Repairing clutch assembly issues like slippage, chatter, or difficulty engaging gears.",
@@ -63,6 +63,28 @@
         "Rust treatment and prevention",
         "Installation of new trim, moldings, or decals"
       ]
+    },
+    {
+      "id":5,
+      "isFeatured": true,
+      "title": "Truck Cooling System Anatony (Radiator Water)",
+      "button":"click for repairing",
+      "image":"https://image.made-in-china.com/2f0j00tqTkupyFnZbB/Factory-Price-Custom-Truck-Hydraulic-Oil-Cooler-Mixer-Complete-Coolers-Radiator-with-Tank-Cl5101.webp",
+      "description": "Repairing cooling system Radiator Coolant, Water Pump,Thermostat,Hoses and Pipes,Cooling Fan,Expansion Tank/Reservoir,Temperature Sensors",
+      "steps": [
+        "Heat exchanger with tubes and fins for heat dissipation.",
+        "Water mixed with additives to prevent corrosion and raise boiling point.",
+        "Pumps coolant through the engine and radiator.",
+        "Temperature-sensitive valve regulating coolant flow.",
+        "Connect various components for coolant circulation.",
+        "Electric or mechanical fan for increased airflow through the radiator.",
+        "Provides space for coolant expansion and refilling.",
+        "Monitor engine and coolant temperature for ECU feedback."
+      ]
     }
   ]
 }
+
+
+
+
