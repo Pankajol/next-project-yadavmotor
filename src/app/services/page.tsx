@@ -18,7 +18,7 @@ function Page() {
   const RepairingServices = repairingservicesData.repair.filter((repairs: Repairs) => repairs.isFeatured)
 
   return (
-    <div className="py-40 sm:py-20 lg:py-40 bg-gray-100 dark:bg-gray-900">
+    <div className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02] text-white dark:bg-gray-900">
       {RepairingServices.map((repairs: Repairs) => (
         <div key={repairs.id} className="flex flex-col items-center justify-center p-4 gap-4 sm:flex-col">                  
         <h1 className="text-black dark:text-blue-300 uppercase text-3xl m-5 ">{repairs.title}</h1>
